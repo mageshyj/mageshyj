@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mageshyj
+- 👀 Python project
+- 🌱 LIST APPLICATION,PY
